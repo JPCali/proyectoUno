@@ -31,3 +31,7 @@ body {
   margin: 0;
   padding: 0;
 }
+.bodycarta{
+  display: flex;
+  grid-row-start: auto;
+}
