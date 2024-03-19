@@ -2,14 +2,32 @@ body {
   padding: 0;
   margin: 0;
 
-  height: 100vh;
-}
-
-.box {
-  height: 40px;
-  width: 40px;
- }
-
+  height: 100vh
+  }
 .bg-violet {
   background-color: #cc540f;
+}
+.leftblank{
+  padding: 0;
+  margin: 0;
+  width: 10em;
+  height: 10em;
+}
+.h2{
+  align-items: center;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+}
+.bodyPpal{
+  display: flex;
+  align-items: center;
+  
+}
+.footer{
+  display: flex;
+  align-items: end;
+  margin: 0;
+  padding: 0;
 }
