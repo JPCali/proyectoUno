@@ -7,40 +7,21 @@ body {
 .bg-violet {
   background-color: #cc540f;
 }
-.leftblank{
-  padding: 0;
-  margin: 0;
-  width: 10em;
-  height: 10em;
-}
 .h2{
   align-items: center;
 }
-.main{
-  display: flex;
-  flex-direction: row;
-}
-.bodyPpal{
-  display: flex;
-  align-items: center;
-  
-}
 .footer{
   display: flex;
-  align-items: end;
+  align-items: center;
   margin: 0;
   padding: 0;
 }
-.bodycarta{
-  display: flex;
-  grid-row-start: auto;
+#encabezado{
+  font-family: cursive;
+  font-size:xx-small;
 }
-.leftblack{
-  width: 10em;
-  height: 100em;
+#footer{
+  font-family:cursive;
+  font-size: x-small;
 }
-.rigthblack{
 
-  width: 10em;
-  height: 100em;
-}
