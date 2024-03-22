@@ -35,3 +35,12 @@ body {
   display: flex;
   grid-row-start: auto;
 }
+.leftblack{
+  width: 10em;
+  height: 100em;
+}
+.rigthblack{
+
+  width: 10em;
+  height: 100em;
+}
