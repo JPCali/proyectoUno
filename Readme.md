@@ -6,8 +6,6 @@ Este proyecto tiene como objetivo diseñar y crear la página web para un restau
 
 ## 📑 Descripción del Proyecto 📑
 
-<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="350" />
-
 El proyecto constará de las siguientes vistas mínimas:
 
 - Home: En esta sección, se presentará la historia de la pastelería desde sus humildes inicios hasta cómo se encuentra en la actualidad. Se mostrarán imágenes y descripciones que ilustren la evolución del negocio a lo largo del tiempo.
@@ -19,8 +17,6 @@ El proyecto constará de las siguientes vistas mínimas:
 - AboutUs: Pequeña reseña sobre el restaurante y su gastronomia.
 
 ## ⌨️ Tecnologías Utilizadas ⌨️
-
-<img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952pyhf3ubrmaz4jwnhwbwfp9q5asjg2ygyly6b6uk4&ep=v1_gifs_search&rid=200w.gif&ct=g" width="150" />
 
 Para el desarrollo del proyecto se utilizarán las siguientes tecnologías:
 
