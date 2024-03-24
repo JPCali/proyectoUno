@@ -6,12 +6,12 @@ Este proyecto tiene como objetivo diseñar y crear la página web para un restau
 
 El proyecto constará de las siguientes vistas mínimas:
 
-- Home: En esta sección, se presentará la historia de la pastelería desde sus humildes inicios hasta cómo se encuentra en la actualidad. Se mostrarán imágenes y descripciones que ilustren la evolución del negocio a lo largo del tiempo.
+- Home: primera vista de los platos y su presentacion asi como tambien los accesos a las diferentes secciones.
 
-- Menú: Aquí se mostrarán los pasteles junto con sus precios. Además, se incluirá la opción para realizar pedidos de los mismos, facilitando así la experiencia de compra para los clientes.
-
-- Contacto: En esta página se proporcionará un formulario para que los clientes puedan contactar con la empresa. Además, se mostrarán otros detalles de contacto, como dirección física, número de teléfono y dirección de correo electrónico.
-
+- Menú: Se muestran los platos asi como su valor.
+  
+- Contacto: Formulario para que los clientes puedan contactar con la empresa.
+  
 - AboutUs: Pequeña reseña sobre el restaurante y su gastronomia.
 
 ## ⌨️ Tecnologías Utilizadas ⌨️
