@@ -28,4 +28,18 @@ body {
   align-items: center;
   justify-content: center;
 }
-
+.contenedor{
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  grid-template-rows: 1;
+}
+.contenedorContacto{
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  grid-template-rows: 1;
+}
+.contenedorAboutUs{
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+  grid-template-rows: 1;
+}
