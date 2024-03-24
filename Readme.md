@@ -1,7 +1,5 @@
 # Crux Pampa (Restaurante Restaurante Argentino)
 
-<img align="right" src="https://i.pinimg.com/originals/10/fc/80/10fc802fd9265606a38d7f6404f8616f.gif" width="200" />
-
 Este proyecto tiene como objetivo diseñar y crear la página web para un restaurante digital, aplicando los conocimientos adquiridos en HTML5, CSS3, CSS Layout (Flexbox & Grid) y utilizando componentes de Bootstrap. La página web constará de tres páginas hipervinculadas mínimas: Home, Menú y Contacto.
 
 ## 📑 Descripción del Proyecto 📑
